@@ -21,7 +21,7 @@ fish (no config files!)
 ### 5.Get it All working!
   5.1 Copy the .xinitrc to your .xinitrc
 ### 6.Baam
-##screenshots
+## screenshots
 
 <img width="1919" height="1079" alt="unixpst" src="https://github.com/user-attachments/assets/492fa2a8-4982-42d4-a4ff-93421e9469ef" />
 <img width="1919" height="1079" alt="unixpst2" src="https://github.com/user-attachments/assets/89f441bd-05cf-48c2-bdf9-020559a21f2f" />
