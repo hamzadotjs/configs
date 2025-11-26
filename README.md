@@ -29,3 +29,8 @@ cmatrix
 <img width="1919" height="1079" alt="unixpst" src="https://github.com/user-attachments/assets/492fa2a8-4982-42d4-a4ff-93421e9469ef" />
 <img width="1919" height="1079" alt="unixpst2" src="https://github.com/user-attachments/assets/89f441bd-05cf-48c2-bdf9-020559a21f2f" />
 <img width="1919" height="1077" alt="unixpst3" src="https://github.com/user-attachments/assets/c13089b5-5fc3-4d09-b1ce-25e9c5ae5ea0" />
+
+
+## Posts wallpaper    
+
+![wallpaper](https://github.com/user-attachments/assets/9e378680-e5e1-4eba-8614-1d38cba5f686)
