@@ -5,7 +5,10 @@ feh
 picom   
 a way to start xinitrc  
 dunst  
-fish (no config files!)
+fish (no config files!)   
+cbonsia (with -s flag)   
+cmatrix   
+    
 ## how to complie
 ### 1.clone the repo
 
